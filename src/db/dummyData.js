@@ -29,6 +29,187 @@ export const youtubersData = [
       link: "https://www.youtube.com/@sheryians",
       category: "Hindi"
     },
+    {
+      name: "GreatStack",
+      img: "https://yt3.googleusercontent.com/SxtxAT2eoNsERZyC-2Q9t3YhFC0IPhlaYOFA8rciY3BkhfoR9VPAx5n8A8L6QNG3vjFXSsB7rQ=s160-c-k-c0x00ffffff-no-rj",
+      link: "https://www.youtube.com/@GreatStackDev",
+      category: "English"
+    },
+    {
+        name: "Lovepreet Singh",
+        img: "https://yt3.googleusercontent.com/HR4ZLbOfutlJ1ThyODpPW-pXNSrG1qmWYXRIAU1TDXrv2B-rAqsw27yP-bPmobxN2IKErmq4gw=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@SinghDevHub",
+        category: "Hindi"
+      },
+      {
+        name: "Hitesh Choudhary",
+        img: "https://yt3.googleusercontent.com/arHIKjc6JTqF_b4QJKPHhQC_Jr8q0XfI7LEpJ0-VuiI0ZRz9xFNz94TWl4CLOcozLx-iAhV_=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A",
+        category: "English"
+      },
+      {
+        name: "JavaScript Mastery",
+        img: "https://yt3.googleusercontent.com/ek0JxMA0h1uXpnYKFL_dYo1ny3LWzAuLwGvaqQwb9Qh2oEQJIPNEPjDrY9yKsvMmIrq_Ooq_=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@javascriptmastery",
+        category: "English"
+      },
+      {
+        name: "Amigoscode",
+        img: "https://yt3.googleusercontent.com/j7KM4l3IN-FxZb881xAD3QhQIosMM1978leBKGfLmCnQxbazoep9BqDnolH-gievUTGGzEwqQA=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@amigoscode",
+        category: "English"
+      },
+      {
+        name: "Fireship",
+        img: "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@Fireship",
+        category: "English"
+      },
+      {
+        name: "Coding with John",
+        img: "https://yt3.googleusercontent.com/ytc/AIdro_n9Mv8CKnWpMmo4opj7Co6MlSdRQBK3Y9JpTtQ-LhZwwQ=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@CodingWithJohn",
+        category: "English"
+      },
+      {
+        name: "CS50",
+        img: "https://yt3.googleusercontent.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@cs50",
+        category: "English"
+      },
+      {
+        name: "Kunal Kushwaha",
+        img: "https://yt3.googleusercontent.com/TZPXEhnZyM75VlYnDDc9O9ELWCmisPJG86bTSv2JREiEcKxy1OsAsmYrjxCF5VVREjTqau7a=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@KunalKushwaha",
+        category: "English"
+      },
+      {
+        name: "Genuine Coder",
+        img: "https://yt3.googleusercontent.com/ytc/AIdro_nXkbznIFPc2Y0PRpCw7W2dhFLDRtw7yaDpCk45apmiWho=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@GenuineCoder",
+        category: "English"
+      },
+      {
+        name: "Devtiro",
+        img: "https://yt3.googleusercontent.com/ILRk2WjseXVV68Ii-FI9tuJKBachmbm37KUEbIuhYraZmd-QGdFOqcqH_VEfQWNHb4Ej_280=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@devtiro",
+        category: "English"
+      },
+      {
+        name: "Kenny Yip Coding",
+        img: "https://yt3.googleusercontent.com/2QtB8fwUBUtfkGbUDoJg_CWRmQsn3xndV7zBYKkUEqBruid-vmxw1Y-gf5Gb_jH9Ih7AkPbkOA=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@KennyYipCoding",
+        category: "English"
+      },
+      {
+        name: "ByteByteGo",
+        img: "https://yt3.googleusercontent.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@ByteByteGo",
+        category: "English"
+      },
+      {
+        name: "The Coding Train",
+        img: "https://yt3.googleusercontent.com/jx7pgOZeAW4tzBUOW3WVTCi8_RJEWZkJS4AiThnYvoS8TaL5zPwOk0gqBftyya9EMhOm80Yhgw=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@TheCodingTrain",
+        category: "English"
+      },
+      {
+        name: "Piyush Garg",
+        img: "https://yt3.googleusercontent.com/3acddexuFlA5yKRS2--11NeqhCiik-0cntUPjk_QjlsA4ScmQUPWNmeBLweVUQjWXTCLT26lsw=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@piyushgargdev",
+        category: "Hindi"
+      },
+      {
+        name: "Learn Code With Durgesh",
+        img: "https://yt3.googleusercontent.com/_QlL192lAmPhFB-5nB38dECnNu8vMkQ0w6Rk_M1MZqWY6vaFoT7ilD3c8yuuoskwtNCoKhmKMg=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@LearnCodeWithDurgesh",
+        category: "Hindi"
+      },
+      {
+        name: "Nishant Chahar",
+        img: "https://yt3.googleusercontent.com/ytc/AIdro_k2O-2O1fL6S58poofnawszoBfzsl1YBpciM9BDhupgLToC=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@NishantChahar11",
+        category: "English"
+      },
+      {
+        name: "Harshit Trehan",
+        img: "https://yt3.googleusercontent.com/RTurvRgoiBR_A2EuEcGc_jktVJogBAy_uLgBYBk2T_d7fwofkvPVZ-MjpDEmnIb_EuUapjNyxyg=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@harshitt_trehan18",
+        category: ""
+      },
+      {
+        name: "Sahil & Sarra",
+        img: "https://yt3.googleusercontent.com/YRddaijKLyie0CDS5fBDDt99mc3gj_z_FD71Avj13kdoDDPqxhDuU-njVXTuBB4XINwdfgPN_g=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@sahilandsarra",
+        category: "English"
+      },
+      {
+        name: "Harkirat Singh",
+        img: "https://yt3.googleusercontent.com/C25u3DcSguL-wd3GaO110Q1fyO5ClTraTjtF72kJhZtpQwuAv3zLmb7K-ZLJecQQJBVvP1McmA=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@harkirat1",
+        category: "English"
+      },
+      {
+        name: "College Wallah",
+        img: "https://yt3.googleusercontent.com/oZaNVv9WA4_uQpmHM1UAQ3AHed6QKgcwccrqUAB9hS5ZrhDoIweRFc5HyitBb6eN-gsTs5NjXQ=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@CollegeWallahbyPW",
+        category: "Hindi"
+      },
+      {
+        name: "CodeHelp - by Babbar",
+        img: "https://yt3.googleusercontent.com/st0tjHROqHEs6scfJ0ZVyMPP1_bh18WJ7l4zAjR4yRf-9sX-eFz2heChzXkiF2TL2tyo2fj_mg=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@CodeHelp",
+        category: "Hindi"
+      },
+      {
+        name: "Intellipaat",
+        img: "https://yt3.googleusercontent.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@Intellipaat",
+        category: "English"
+      },
+      {
+        name: "WsCube Tech",
+        img: "https://yt3.googleusercontent.com/QTlee6tZMcFVJYcNR9TXTqMv4m2AanaSiUes0HZ9eyju0k2YicnOVVRK480CBc_PUn3XpbiHew=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@wscubetech",
+        category: "Hindi"
+      },
+      {
+        name: "freeCodeCamp.org",
+        img: "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@freecodecamp",
+        category: "English"
+      },
+      {
+        name: "SuperSimpleDev",
+        img: "https://yt3.googleusercontent.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@SuperSimpleDev",
+        category: "English"
+      },
+      {
+        name: "Programming with Mosh",
+        img: "https://yt3.googleusercontent.com/EXprkFw6nOZgxD2Qf3mPCO3StHkyfdp6Jc8WTPQiZJl13lOmRAgH4FuhTYItT36Pw6-6IEAtnA=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@programmingwithmosh",
+        category: "English"
+      },
+      {
+        name: "Harnoor Singh",
+        img: "https://yt3.googleusercontent.com/ytc/AIdro_nJtdGsWQkFw-CfgErT2agZkMgOQEtVTrq9DQPMtNFXI3A=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@HarnoorSinghOfficial",
+        category: "English"
+      },
+      {
+        name: "Compile & Conquer",
+        img: "https://yt3.googleusercontent.com/0yN1yML7EVUbqnuSU0eI-LGik02Yn7iRQN5bqriiETORhFbJFCfe4anaUeQNRhcaLoO2vJoVwkY=s160-c-k-c0x00ffffff-no-rj",
+        link: "https://www.youtube.com/@eklakalam04",
+        category: "Hindi"
+      },
+    //   {
+    //     name: "",
+    //     img: "",
+    //     link: "",
+    //     category: ""
+    //   }
+
   ];
 
 //   export const youtubersData = [

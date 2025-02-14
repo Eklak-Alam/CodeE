@@ -11,7 +11,7 @@ const Footer = () => {
           
           {/* Logo & Project Name */}
           <div>
-            <h2 className="text-3xl font-bold">🚀 MyProject</h2>
+            <h2 className="text-3xl font-bold">CODE <span className="text-orange-600">E</span></h2>
             <p className="text-gray-400 mt-2">
               Build the future, one line of code at a time.
             </p>

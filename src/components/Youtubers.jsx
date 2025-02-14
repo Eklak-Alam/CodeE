@@ -33,7 +33,7 @@ const Youtubers = () => {
         modules={[Pagination]}
         className="mt-10"
       >
-        {allYoutubers.map(({ name, img, link }, index) => (
+        {allYoutubers.slice(0, 6).map(({ name, img, link }, index) => (
           <SwiperSlide key={index}>
             <a
               href={link}
